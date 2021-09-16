@@ -10,3 +10,32 @@
   clear: both;
 }
 
+.container-page{
+  width: 80%;
+  margin: auto;
+  background-color: grey;
+}
+
+/* HEADER */
+.head{
+  height: 70px;
+  margin: 20px 0px;
+  background-color: #E579E6;
+}
+
+.jumbotron{
+  height: 400px;
+  background-color: #E2D67A;
+  margin-bottom: 20px;
+}
+
+/* MAIN */
+main{
+  min-height: 400px;
+  background-color: #0286FF ;
+}
+
+aside section .top-sec{
+  background-color: #ABCFE6;
+}
+
