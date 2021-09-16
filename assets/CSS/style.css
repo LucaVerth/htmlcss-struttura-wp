@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+/* TUTTE LE ALTEZZE SONO PROVVISORIE/DA RIMUOVERE */
+
 .clearfix:after{
   content: "";
   display: table;
@@ -23,7 +25,7 @@
 }
 
 .jumbotron{
-  height: 600px;
+  height: 600px;  
   background-color: #E2D67A;
   margin-bottom: 30px;
 }
@@ -62,7 +64,6 @@ section{
 }
 
 /* FOOTER */
-
 footer{
   height: 70px;
   background-color: #8901FF;
